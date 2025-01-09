@@ -96,6 +96,15 @@ h2 {
     margin-bottom: 1.5rem;
 }
 
+/* Events */
+th, td {
+    text-align: start;
+}
+
+#discount {
+    border-radius: 0;
+}
+
 /* Game library cards */
 
 #new-games .card,
