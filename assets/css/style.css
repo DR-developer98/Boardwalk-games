@@ -97,6 +97,10 @@ h2 {
 }
 
 /* Events */
+#events {
+    max-width: 90%;
+}
+
 th, td {
     text-align: start;
 }
@@ -167,6 +171,10 @@ th, td {
     /* Make all service cards the same height for consistency */
     #services .card-body {
         min-height: 191px;
+    }
+    /* Game reservation form */
+    #reservation {
+        max-width: 75%;
     }
 }
 
